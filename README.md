@@ -9,7 +9,7 @@ is a small app in the recently released Vue 3 version that will show wether or n
 <img width="1205" alt="vue3basic" src="https://user-images.githubusercontent.com/60004408/142411425-2dbb6f94-1610-46ff-8f3d-3767ec1d5e98.png">
 
 # Real World Vue 
-is a slightly more complex and realistic app that calls an API to display a list of cards showing different events. We will use among other things NPM, single file components and Axios.
+is a slightly more complex and realistic app that calls an API to display a list of cards showing different events. We will use among other things NPM, single file components, Vue Router and Axios.
 
 [The app Real-World](https://real-world-vue-bexo.onrender.com/)
 
